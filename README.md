@@ -1,48 +1,36 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
+
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 2 minutos apresenta uma visão sobre como os avanços no campo da IA estão mudando e revolucionando o mercado num ritmo extremamente rápido. O vídeo apresenta também vantagens e desvantagens dessas mudanças. O vídeo é apresentado na linguagem Inglesa (US).
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Roteiro: ChatGPT
+- Avatar, vídeo e áudio: VEED.io
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo começou com a criação do roteiro, focado em destacar como a inteligência artificial está impactando o mercado global. O objetivo foi manter a linguagem clara e direta, abordando tanto os benefícios quanto os desafios dessa revolução tecnológica.
+
+Em seguida, utilizei a plataforma VEED.io para gerar o avatar digital. Escolhi um estilo profissional, com voz clara e natural, para garantir que a mensagem fosse transmitida de forma envolvente. Ajustei a sincronização entre a narração e as expressões faciais do avatar, criando um vídeo dinâmico e informativo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo final conseguiu apresentar, de maneira concisa e impactante, o papel transformador da inteligência artificial no mercado. O conteúdo gerou engajamento ao provocar reflexões sobre como a tecnologia está moldando o futuro, incentivando discussões sobre os limites e oportunidades que ela traz.
+
+A recepção foi positiva, com destaque para a clareza das informações, o profissionalismo do avatar e a objetividade ao expor tanto as vantagens quanto as desvantagens da IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo autêntico e impactante usando IA foi um desafio interessante. Embora a tecnologia facilite a produção de conteúdos visuais e narrativos, a essência criativa ainda depende fortemente de uma visão humana clara. O equilíbrio entre automação e personalização foi fundamental para que o vídeo parecesse profissional, sem perder o toque humano.
+
+Esse projeto reforçou a importância de guiar a IA com intenção e propósito, garantindo que as mensagens transmitidas sejam não apenas tecnológicas, mas também significativas.
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
