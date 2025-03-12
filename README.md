@@ -4,7 +4,7 @@
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+O Lado Duplo da IA: Avanços Tecnológicos e Seus Efeitos
 
 ## 📒 Descrição
 Este vídeo de 2 minutos apresenta uma visão sobre como os avanços no campo da IA estão mudando e revolucionando o mercado num ritmo extremamente rápido. O vídeo apresenta também vantagens e desvantagens dessas mudanças. O vídeo é apresentado na linguagem Inglesa (US).
@@ -29,11 +29,10 @@ Criar algo autêntico e impactante usando IA foi um desafio interessante. Embora
 Esse projeto reforçou a importância de guiar a IA com intenção e propósito, garantindo que as mensagens transmitidas sejam não apenas tecnológicas, mas também significativas.
 ```
 
-### Exemplos e Insigths
+### Video do projeto
 
+https://github.com/user-attachments/assets/b0b3e639-a869-4861-be8f-095a6bb09fa1
 
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
