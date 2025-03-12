@@ -1,6 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-# Título do Projeto Extremamente Aesthetic ;)
+## Título do Projeto Extremamente Aesthetic ;)
 O Lado Duplo da IA: Avanços Tecnológicos e Seus Efeitos
 
 ## 📒 Descrição
