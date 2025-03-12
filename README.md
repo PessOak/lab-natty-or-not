@@ -1,8 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 O Lado Duplo da IA: Avanços Tecnológicos e Seus Efeitos
 
@@ -27,7 +24,6 @@ A recepção foi positiva, com destaque para a clareza das informações, o prof
 Criar algo autêntico e impactante usando IA foi um desafio interessante. Embora a tecnologia facilite a produção de conteúdos visuais e narrativos, a essência criativa ainda depende fortemente de uma visão humana clara. O equilíbrio entre automação e personalização foi fundamental para que o vídeo parecesse profissional, sem perder o toque humano.
 
 Esse projeto reforçou a importância de guiar a IA com intenção e propósito, garantindo que as mensagens transmitidas sejam não apenas tecnológicas, mas também significativas.
-```
 
 ### Video do projeto
 
